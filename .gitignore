@@ -1,0 +1,8 @@
+.idea
+.settings
+.factorypath
+.classpath
+.project
+target
+sprk-data
+logs
